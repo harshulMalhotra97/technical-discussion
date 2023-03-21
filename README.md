@@ -7,4 +7,4 @@ This is a demo repo for sharing ideas around communication
 
 ### Gist
 
-This is a good example of [my code](https://gist.github.com/harshulMalhotra97/b81c0057caffa32196ba599c4255c80d)
+This is a good example of [my code]https://gist.github.com/harshulMalhotra97/b81c0057caffa32196ba599c4255c80d
